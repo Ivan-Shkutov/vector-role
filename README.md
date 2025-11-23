@@ -17,9 +17,8 @@
 
 # Role Variables
 
-clickhouse_user: user
-
-clickhouse_password: 1234
+       clickhouse_user: user
+       clickhouse_password: 1234
 
 Конфигурация содержится в vars/main.yml
 
