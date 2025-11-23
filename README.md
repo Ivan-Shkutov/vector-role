@@ -11,13 +11,11 @@
 
 ------------
 
-Requirements
+# Requirements
 
 ------------
 
-------------
-
-Dependencies
+# Dependencies
 
 ------------
 
@@ -27,7 +25,7 @@ Dependencies
 
 ------------
 
-Example Playbook
+# Example Playbook
 
 ------------
 
@@ -37,7 +35,7 @@ Example Playbook
 
 ------------
 
-License
+# License
 
 ------------
 
@@ -45,7 +43,7 @@ MIT
 
 ------------
 
-Author Information
+# Author Information
 
 ------------
 
