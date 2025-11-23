@@ -15,9 +15,18 @@
 
 ------------
 
-# Dependencies
+# Role Variables
+
+clickhouse_user: user
+
+clickhouse_password: 1234
+
+Конфигурация содержится в vars/main.yml
 
 ------------
+
+# Dependencies
+
 
 В inventory добавляем название хоста clickhouse
 
@@ -27,7 +36,6 @@
 
 # Example Playbook
 
-------------
 
        - hosts: vector
          roles:
@@ -37,15 +45,11 @@
 
 # License
 
-------------
-
 MIT
 
 ------------
 
 # Author Information
-
-------------
 
 Ivan Shkutov
 
